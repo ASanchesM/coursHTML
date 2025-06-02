@@ -9,3 +9,14 @@ h1 {
     font-size: 30px;
     color: crimson;
 }
+
+.myBtn{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 20px;
+    text-decoration: none;
+}
